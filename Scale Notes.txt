@@ -1,0 +1,53 @@
+Head diameter = 18.25in = 0.46m
+
+In vector image 20px = 0.45m
+1px = 0.0225m
+
+Wing length = 337px = 7.58m
+Wing outer edge = 18.5px = 0.41625m
+
+Engine intake outer diameter = 37px = 0.8325m
+Inner diameter = 30px = 0.675m
+Pre-Cowling Length = 50px = 1.125m
+Cowling Length = 0.09m
+
+Inner intake base diameter = 22px = 0.495m
+Inner intake point diameter = 10px = 0.225m
+Inner intake taper length = 52px = rounded up to 1.2m
+
+Beam length = 175px = 3.9375m
+Beam wingtip length = 71px = 1.5975m
+Max wingtip width = 30px = 0.675m
+Wingtip front taper distance = 31px = 0.6975 rounded down to 0.675
+Wingtip center length = 26px = 0.585m
+Final taper base = 14px = 0.315m
+
+Engine rear pre-mid section = 0.3825m
+
+In reference photo:
+Engine intake section = 44px
+Post-intake section = 19px
+Expanded section = 28.2px 
+
+Ratio = 0.4318 = 0.486m
+Ratio #2 = 0.636 = 0.716m
+
+
+Fuselage Length = 250px = 5.626m
+
+Rear wing length = 300px = 6.75m
+Leading edge triangle length = 68px = 1.35m
+Edge triangle height = 39px = 0.8775m
+Leading edgle height = 5px = 0.1125m
+Rear wing edge = 16px = 0.36m
+
+Canopy aft section length = 11px = 0.2475m
+Canopy aft inward sweep = 65px = 1.4625m
+Rear canopy arc = 3/5 diameter
+Rear pre-socket spacing = 7ps = 0.1575m
+
+Fuselage Front oval width = 30px = 0.675m
+Height = 1.35m
+Front oval depth = 9px = 0.2025m
+
+Canopy width = 0.585px
