@@ -7,3 +7,6 @@ All users are free to use and modify it for their own purposes, I only request t
 TODO:
 -Flesh out astromech compartment
 -Add fuselage vertical wing thing
+
+Stretch Goals:
+-Add landing gear and make wings rotatable for landing
